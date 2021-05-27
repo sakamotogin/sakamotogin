@@ -1,23 +1,15 @@
-# sakamotogin 
+### Hi there 👋, I'm Sakamoto!
 
-## Overview
+![Github stats](https://github-readme-stats.vercel.app/api?username=sakamotogin&theme=highcontrast&show_icons=true&count_private=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=sakamotogin&layout=compact)
 
+## My Repos
 
-## Requirement
+[![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=sakamotogin&repo=vennfig&show_owner=true)](https://github.com/sakamotogin/vennfig)
 
+[![statsfig](https://github-readme-stats.vercel.app/api/pin/?username=sakamotogin&repo=statsfig&show_owner=true)](https://github.com/sakamotogin/statsfig)
 
-## Usage
-
-
-## Features
-
-
-## Reference
+[![Covid 19 Stats](https://github-readme-stats.vercel.app/api/pin/?username=sakamotogin&repo=covid-19-stats&show_owner=true)](https://github.com/sakamotogin/covid-19-stats)
 
 
-## Author
 
-
-## Licence
-
-Please see license.txt.
